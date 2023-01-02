@@ -8,15 +8,15 @@ public class Prime_numbers{
                 if (divisor == numbers) {
                     System.out.println("Liczba " + numbers + " jest liczba pierwszą.");
                     break;
-                } else {
+                    } else
                     if (divisibility(numbers, divisor)) {
-                        System.out.println("Niepodzielne przez " + divisor);
-                        //continue;
-                    } else {
+                       // System.out.println(numbers % divisor);
+                        continue;
+                    } //else {
                         System.out.println("Liczba " + numbers + " nie jest liczbą pierwszą.");
                         break;
-                    }
-                }
+                    //}
+
             }
 
     }
