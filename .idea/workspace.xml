@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="213db7d3-77e3-47d6-9243-b5bb631a3a97" name="Changes" comment="Pierwsze 'dzieło'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="213db7d3-77e3-47d6-9243-b5bb631a3a97" name="Changes" comment="Pierwsze 'dzieło'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +24,11 @@
         <option value="Artur" />
         <option value="Artur Lisoń" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
@@ -135,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672703366991</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pierwsze 'dzieło'">
+      <created>1672740536519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672740536519</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,11 +181,17 @@
             <State />
           </value>
         </entry>
+        <entry key="a225967c-ae84-438c-9c7c-891a06503708">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="4fd4dd7a-7ab6-498b-a742-906f48e9fe2a" value="TOOL_WINDOW" />
+        <entry key="a225967c-ae84-438c-9c7c-891a06503708" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
