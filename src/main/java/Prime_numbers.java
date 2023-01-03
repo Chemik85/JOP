@@ -10,12 +10,12 @@ public class Prime_numbers{
                     break;
                     } else
                     if (divisibility(numbers, divisor)) {
-                       // System.out.println(numbers % divisor);
+
                         continue;
-                    } //else {
+                    }
                         System.out.println("Liczba " + numbers + " nie jest liczbą pierwszą.");
                         break;
-                    //}
+
 
             }
 
