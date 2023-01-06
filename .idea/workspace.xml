@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="213db7d3-77e3-47d6-9243-b5bb631a3a97" name="Changes" comment=" Pierwsze dzieło - poprawka">
+      <changelist_data name="artur" email="artur_lison@poczta.fm" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="artur &lt;artur_lison@poczta.fm&gt;" />
+        <option value="Artur" />
+        <option value="Artur Lisoń" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JXtG4AtniUKiSBLK7GbNB2JNX3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Programowanie/JAVA/PrimeNumbers",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programowanie\JAVA\PrimeNumbers\PrimeNumbuersClass" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.pl.lison.primenumbers.PrimeNumbers">
+    <configuration name="PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primenumbers.PrimeNumbers" />
+      <module name="PrimeNumbers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.lison.primenumbers.PrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.lison.primenumbers.PrimeNumbers" />
+      <module name="PrimeNumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lison.primenumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeNumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lison.primenumberstest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lison.primenumberstest" />
+      <option name="MAIN_CLASS_NAME" value="pl.lison.primenumberstest.PrimeNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbersTest.shouldDivisibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeNumbers" />
+      <option name="PACKAGE_NAME" value="pl.lison.primenumberstest" />
+      <option name="MAIN_CLASS_NAME" value="pl.lison.primenumberstest.PrimeNumbersTest" />
+      <option name="METHOD_NAME" value="shouldDivisibility" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumbersTest.shouldRestOfTheDivisionFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeNumbers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lison.primenumberstest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lison.primenumberstest" />
+      <option name="MAIN_CLASS_NAME" value="pl.lison.primenumberstest.PrimeNumbersTest" />
+      <option name="METHOD_NAME" value="shouldRestOfTheDivisionFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pl.lison.primenumbers.PrimeNumbers" />
+        <item itemvalue="JUnit.PrimeNumbersTest" />
+        <item itemvalue="JUnit.PrimeNumbersTest.shouldRestOfTheDivisionFalse" />
+        <item itemvalue="JUnit.PrimeNumbersTest.shouldDivisibility" />
+        <item itemvalue="Application.PrimeNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="213db7d3-77e3-47d6-9243-b5bb631a3a97" name="Changes" comment="" />
+      <created>1672236159684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672236159684</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Pierwsze 'dzieło'">
+      <created>1672657619929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672657619929</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pierwsze 'dzieło'">
+      <created>1672703263526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672703263526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pierwsze 'dzieło'">
+      <created>1672703366991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672703366991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pierwsze 'dzieło'">
+      <created>1672740536519</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672740536519</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Pierwsze dzieło - poprawka">
+      <created>1673020555927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673020555927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4fd4dd7a-7ab6-498b-a742-906f48e9fe2a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="a225967c-ae84-438c-9c7c-891a06503708">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4fd4dd7a-7ab6-498b-a742-906f48e9fe2a" value="TOOL_WINDOW" />
+        <entry key="a225967c-ae84-438c-9c7c-891a06503708" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pierwsze 'dzieło'" />
+    <MESSAGE value=" Pierwsze dzieło - poprawka" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Pierwsze dzieło - poprawka" />
+  </component>
+</project>
